@@ -41,6 +41,8 @@ Total Sales by Item Type: : Identify the performance of different item types in 
 Fat Content by Outlet for Total Sales: Compare total sales across different outlets segmented by fat content.
 Total Sales by Outlet Establishment: Evaluate how the age or type of outlet establishment influences total sales.
 
+Screeshot of dashboard: https://github.com/fmdshakir27-gif/Blinkit-dashboard/blob/main/Dashboard%20screenshot.png 
+
 
 
 
